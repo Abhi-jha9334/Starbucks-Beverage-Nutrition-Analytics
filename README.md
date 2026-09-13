@@ -4,7 +4,7 @@
 
 An end-to-end data analytics and business intelligence project focused on analyzing Starbucks beverage products and their nutritional characteristics.
 
-The project follows a structured data pipeline covering data quality assessment, Python-based data cleaning, SQL analysis, data transformation, analytical modeling, and interactive Power BI dashboard development.
+The project follows a structured analytics workflow covering data quality assessment, Python-based data cleaning, SQL analysis, data transformation, analytical modeling, and interactive Power BI dashboard development.
 
 The objective is to transform raw beverage data into meaningful business and nutritional insights around product portfolio distribution, calories, sugar, and caffeine.
 
