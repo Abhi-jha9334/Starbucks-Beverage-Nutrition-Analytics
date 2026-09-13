@@ -138,11 +138,11 @@ The page is designed to make nutritional differences between beverage categories
 
 ### Executive Overview
 
-![Starbucks Executive Overview](starbucks-executive-overview.png)
+![Starbucks Executive Overview](Starbucks-Executive-Overview.png)
 
 ### Nutritional Insights
 
-![Starbucks Nutritional Insights](starbucks-nutritional-insights.png)
+![Starbucks Nutritional Insights](Starbucks-Nutritional-Insights.png)
 
 ---
 
