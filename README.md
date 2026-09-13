@@ -20,7 +20,7 @@ The analysis focuses on understanding:
 - Category-level nutritional differences
 - Average calorie, sugar, and caffeine levels
 - Product portfolio composition
-- Patterns that can help compare beverage categories from a nutritional perspective
+- Nutritional patterns across beverage categories
 
 ---
 
@@ -85,15 +85,15 @@ The SQL analysis focused on:
 - Average nutritional metrics
 - Beverage category comparisons
 - Nutritional metric exploration
-- Supporting business questions with structured queries
+- Supporting business questions with structured SQL queries
 
-SQL was used to convert raw data into analytical results that could be further visualized in Power BI.
+SQL was used to transform raw data into analytical results that could be further visualized in Power BI.
 
 ---
 
 ## Power BI Dashboard
 
-The cleaned and analyzed data was used to develop an interactive Power BI dashboard with a Starbucks-inspired professional design.
+The cleaned and analyzed data was used to develop an interactive Power BI dashboard with a professional Starbucks-inspired design.
 
 ### Page 1 — Executive Overview
 
@@ -110,16 +110,14 @@ The Executive Overview provides a high-level summary of the beverage portfolio.
 
 - Products by Beverage Category
 - Average Calories by Beverage Category
-- Beverage Category slicer
+- Beverage Category Slicer
 
 *Interactive Features:*
 
-- Category filtering
+- Beverage Category filtering
 - Reset Filters button
 - Report-page tooltip
 - Interactive visual filtering
-
----
 
 ### Page 2 — Nutritional Insights
 
@@ -133,6 +131,18 @@ The Nutritional Insights page provides detailed category-level nutritional compa
 - Product Distribution by Beverage Category
 
 The page is designed to make nutritional differences between beverage categories easier to compare and interpret.
+
+---
+
+## Dashboard Preview
+
+### Executive Overview
+
+![Starbucks Executive Overview](starbucks-executive-overview.png)
+
+### Nutritional Insights
+
+![Starbucks Nutritional Insights](starbucks-nutritional-insights.png)
 
 ---
 
